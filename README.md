@@ -1,8 +1,8 @@
-<table>
+ï»¿<table>
   <tr></tr>
   <tr>
     <td align=center><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/oGate.jpg" />
-      <br>https://x.co/ogate<br>https://git.io/vJvcW<br>¹Ì¶¨ÍøÖ·<br>ÇëÍ¬Ê±ÊÕ²Ø</td>
+      <br>https://x.co/ogate<br>https://git.io/vJvcW<br>å›ºå®šç½‘å€<br>è¯·åŒæ—¶æ”¶è—</td>
     <td align=center><img src="https://da4wqjj5xtwp9.cloudfront.net/Up/0WMGD1.png" /></td>
   </tr>
   <tr>
