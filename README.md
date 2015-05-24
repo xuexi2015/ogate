@@ -2,7 +2,7 @@
   <tr><td colspan=2><img src="https://d3jeechfvfki1u.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr>
     <td align=center>https://x.co/ogate<br>固定网址<br>请同时收藏<br><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WMGD1.png" /></td>
-    <td align=center>https://git.io/ogate<br>固定网址<br>请同时收藏</td><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WMGD2.png" /></td>
+    <td align=center>https://git.io/ogate<br>固定网址<br>请同时收藏<br><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr>
     <td><a href="https://d3jeechfvfki1u.cloudfront.net" target="_blank"><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WMDT.jpg" /></a></td>
