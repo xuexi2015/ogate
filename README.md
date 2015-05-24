@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td><a href="https://d2j2h4kwj7gajn.cloudfront.net" target="_blank"><img src="https://d2j2h4kwj7gajn.cloudfront.net/Up/0WMDT.jpg" /></a></td>
-    <td><a href="https://d2j2h4kwj7gajn.cloudfront.net/oNote.aspx?id=oNote" target="_blank"><img src="https://d2j2h4kwj7gajn.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+    <td><a href="https://d2j2h4kwj7gajn.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d2j2h4kwj7gajn.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d2j2h4kwj7gajn.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/524" target="_blank"><img src="https://d2j2h4kwj7gajn.cloudfront.net/Up/0DTW.jpg"/></a></td>
