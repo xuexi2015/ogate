@@ -2,7 +2,7 @@
   <tr></tr>
   <tr>
     <td align=center><img src="https://d3jeechfvfki1u.cloudfront.net/Up/oGate.jpg" />
-      <br>https://x.co/ogate<br>https://git.io/vJvcW<br>固定网址<br>请同时收藏</td>
+      <br>https://x.co/ogate<br>https://git.io/ogate<br>固定网址<br>请同时收藏</td>
     <td align=center><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WMGD1.png" /></td>
   </tr>
   <tr>
@@ -10,7 +10,7 @@
     <td><a href="https://d3jeechfvfki1u.cloudfront.net/oNote.aspx?id=oNote" target="_blank"><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3jeechfvfki1u.cloudfront.net/onUP.aspx?name=https://d2jbwlibtxvh4m.cloudfront.net/523" target="_blank"><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d3jeechfvfki1u.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/524" target="_blank"><img src="https://d3jeechfvfki1u.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://d3jeechfvfki1u.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d3jeechfvfki1u.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
