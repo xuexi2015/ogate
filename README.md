@@ -6,10 +6,10 @@
   </tr>
   <tr>
     <td><a href="https://d2ket7s44r2xu8.cloudfront.net/?from=github" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/0WMDT.jpg" /></a></td>
-    <td><a href="https://d2ket7s44r2xu8.cloudfront.net/oNote.aspx" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+    <td><a href="https://d2ket7s44r2xu8.cloudfront.net/oNote.aspx?from=github" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2ket7s44r2xu8.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/525" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d2ket7s44r2xu8.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/525&from=github" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://d2ket7s44r2xu8.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d2ket7s44r2xu8.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
