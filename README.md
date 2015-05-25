@@ -5,8 +5,8 @@
     <td align=center>https://git.io/ogate<br>固定网址二<br>请同时收藏<br><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr>
-    <td><a href="https://dntvryqsdv07n.cloudfront.net/?from=github" target="_blank"><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMDT.jpg" /></a></td>
-    <td><a href="https://dntvryqsdv07n.cloudfront.net/oNote.aspx?from=github" target="_blank"><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+    <td><a href="https://dntvryqsdv07n.cloudfront.net/oNote.aspx?from=github" target="_blank"><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMDT.jpg" /></a></td>
+    <td><a href="https://dntvryqsdv07n.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://dntvryqsdv07n.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/525&from=github" target="_blank"><img src="https://dntvryqsdv07n.cloudfront.net/Up/0DTW.jpg"/></a></td>
