@@ -1,7 +1,7 @@
 ﻿<table>
   <tr><td colspan=2 align=center><img src="https://dntvryqsdv07n.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr>
-    <td align=center>https://x.co/ogate<br>固定网址一高速<br>请同时收藏<br><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMGD1.png" /></td>
+    <td align=center>https://x.co/ogate<br>固定网址一 高速<br>请同时收藏<br><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMGD1.png" /></td>
     <td align=center>https://git.io/ogate<br>固定网址二<br>请同时收藏<br><img src="https://dntvryqsdv07n.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr>
