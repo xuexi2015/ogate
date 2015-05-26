@@ -9,7 +9,7 @@
     <td><a href="https://d2iaof6365cv31.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://d2iaof6365cv31.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2iaof6365cv31.cloudfront.net/onUP.aspx?name=https://d3h1gdc8wi0m01.cloudfront.net/526&from=github" target="_blank"><img src="https://d2iaof6365cv31.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d2iaof6365cv31.cloudfront.net/onUP.aspx?name=https://d2tx4sol6zqfh1.cloudfront.net/526&from=github" target="_blank"><img src="https://d2iaof6365cv31.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://d2iaof6365cv31.cloudfront.net/ogST.aspx?from=github" target="_blank"><img src="https://d2iaof6365cv31.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
