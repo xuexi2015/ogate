@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td rowspan=2><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=WJ.mp4&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/WJ.jpg" /></a></td>
-    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=16&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/DKC.jpg" /></a></td> 
+    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=17&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/DKC.jpg" /></a></td> 
   </tr>
   <tr>
     <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:13,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/LRWS.jpg" /></a></td>
@@ -31,8 +31,8 @@
     <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=CYKJ.mp4&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/CYKJ.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:17,04:20&current=05:16&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/4SZG0.jpg" /></a></td>
-    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:42,04:52&current=05:41&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
+    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:18,04:20&current=05:18&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:43,04:52&current=05:43&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d2ls49i9b0t1rr.cloudfront.net/ogUP.aspx?name=FG.zip&from=github" target="_blank"><img src="https://d2ls49i9b0t1rr.cloudfront.net/Up/FG.jpg" /></a></td>
