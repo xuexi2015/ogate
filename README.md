@@ -12,6 +12,8 @@
     <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogDY.aspx?from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/DY.jpg"/></a></td>
     <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogST.aspx?from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
+</table>
+<table>
   <tr>
     <td rowspan=2><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=WJ.mp4&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/WJ.jpg" /></a></td>
     <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=17&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/DKC.jpg" /></a></td> 
@@ -27,7 +29,7 @@
     <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=RTZQ.mp4&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/RTZQ.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:21,04:21&current=05:20&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=05:22,04:22&current=05:20&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/4SZG0.jpg" /></a></td>
     <td><a href="https://d3g08lwdj2dwzz.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=05:48,04:52&current=05:47&from=github" target="_blank"><img src="https://d3g08lwdj2dwzz.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
   </tr>
   <tr>
