@@ -5,14 +5,6 @@
     <td align=center>https://git.io/ogate<br>固定网址二 手动<br>请同时收藏<br><img src="https://d3b4u2qqm0yh6y.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr><td colspan=2 align=center>动态网址
-<br>https://d19mae0zdbqil4.cloudfront.net
-<br>https://d13c9y489gfkt8.cloudfront.net
-<br>https://dkvrhojfa0f6l.cloudfront.net
-<br>https://d3g08lwdj2dwzz.cloudfront.net
-<br>https://dplep891i7ahh.cloudfront.net
-<br>https://d2pkh766x0m9wo.cloudfront.net
-<br>https://d1iuybivlx6nx6.cloudfront.net
-<br>https://dmy5zfvt21ynh.cloudfront.net
 <br>https://d3b4u2qqm0yh6y.cloudfront.net
     </td>
   </tr>
