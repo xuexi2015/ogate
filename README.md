@@ -11,8 +11,8 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0WMYQ.jpg" /></a></td>
-    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0WZBM.jpg" /></a></td>
+    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0WCYQ.jpg" /></a></td>
+    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0WZBM0.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/ogDY.aspx?from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/DY.jpg"/></a></td>
