@@ -50,10 +50,10 @@
   </tr>
   <tr>
     <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://d3r9vf059h4454.cloudfront.net/602&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0DTW.jpg"/></a></td>
-    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://d189wbvkxdhu8.cloudfront.net/acenter/&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0TDW.jpg" /></a></td>
+    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://d2tyo2h9ydw5hf.cloudfront.net/acenter/&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0TDW.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://d3svuyn6awh7rq.cloudfront.net/gb/nsc413.htm&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0DJY.jpg" /></a></td>
+    <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://d2r8g7swm7yriq.cloudfront.net/gb/nsc413.htm&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0DJY.jpg" /></a></td>
     <td><a href="https://d39v4d1d7vlwnq.cloudfront.net/onUP.aspx?name=https://dgyo0jey7vwa5.cloudfront.net/xtr/gb/prog204.html&from=github" target="_blank"><img src="https://d39v4d1d7vlwnq.cloudfront.net/Up/0XTR.jpg" /></a></td>
   </tr>
   <tr>
