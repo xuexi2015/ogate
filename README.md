@@ -4,6 +4,9 @@
     <td align=center>https://x.co/ogate<br>固定网址一 自动<br>请同时收藏<br><img src="https://d3ozke62es1mv9.cloudfront.net/Up/0WMGD1.png" /></td>
     <td align=center>https://git.io/ogate<br>固定网址二 手动<br>请同时收藏<br><img src="https://d3ozke62es1mv9.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
+  <tr>
+    <td colspan=2 align=center>https://d3ozke62es1mv9.cloudfront.net/Up/0ogate.apk<br><img src="https://d3ozke62es1mv9.cloudfront.net/Up/0ogate.png" /></td>
+  </tr>
   <tr><td colspan=2 align=center>动态网址
 <br>https://d15uwa683wg8q8.cloudfront.net
 <br>https://dhytwinob306x.cloudfront.net
