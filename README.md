@@ -8,11 +8,6 @@
     <td colspan=2 align=center><a href="https://d3ozke62es1mv9.cloudfront.net/ogUP.aspx?name=0ogate.apk&from=github" target="_blank"><img src="https://d3ozke62es1mv9.cloudfront.net/Up/0ogate.jpg" /></a></td>
   </tr>
   <tr><td colspan=2 align=center>动态网址
-<br>https://d15uwa683wg8q8.cloudfront.net
-<br>https://dhytwinob306x.cloudfront.net
-<br>https://d1jw26xvw60ae9.cloudfront.net
-<br>https://d3i9wx03v0jwxz.cloudfront.net
-<br>https://d2ark8q3j0canz.cloudfront.net
 <br>https://d3lkvfbvku1m7l.cloudfront.net
 <br>https://d16ejt8aqlr37x.cloudfront.net
 <br>https://d2v2bodddjgs5a.cloudfront.net
