@@ -8,18 +8,6 @@
     <td colspan=2 align=center><a href="https://dc4ycmzfbxo16.cloudfront.net/ogUP.aspx?name=0ogate.apk&from=github" target="_blank">安卓版请下载<br/><img src="https://dc4ycmzfbxo16.cloudfront.net/Up/0ogate.jpg" /></a></td>
   </tr>
   <tr><td colspan=2 align=center>网页版动态网址
-<br>https://d3nhuzsgc2kmz.cloudfront.net
-<br>https://d1hhp6t7oyds2c.cloudfront.net
-<br>https://dzo80k642lss8.cloudfront.net
-<br>https://d67kjh6osrqj0.cloudfront.net
-<br>https://d3su4zyu6uj64j.cloudfront.net
-<br>https://d4awm79938zy3.cloudfront.net
-<br>https://d3hvoj7mlqcto5.cloudfront.net
-<br>https://d23cdftwd65l2m.cloudfront.net
-<br>https://d1q8fg4bvq9ykz.cloudfront.net
-<br>https://d2e7jrd595uy65.cloudfront.net
-<br>https://d2592lsvqko2ae.cloudfront.net
-<br>https://d312cisj43zn76.cloudfront.net
 <br>https://dc4ycmzfbxo16.cloudfront.net
     </td>
   </tr>
