@@ -5,7 +5,7 @@
     <td align=center>https://git.io/ogate<br>网页版二 请收藏<br><img src="https://d2rn0l9vkqwcqb.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr>
-    <td colspan=2 align=center>https://git.io/ogatea<br/>安卓版 请下载<br/><img src="https://d2rn0l9vkqwcqb.cloudfront.net/Up/0ogate.jpg" /></td>
+    <td colspan=2 align=center>https://git.io/ogatea<br/>安卓版 请下载<br/><img src="https://d2rn0l9vkqwcqb.cloudfront.net/Up/0WMAZ.png" /></td>
   </tr>
   <tr><td colspan=2 align=center>网页版动态网址
 <br>https://dc4ycmzfbxo16.cloudfront.net
