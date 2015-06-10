@@ -5,9 +5,6 @@
     <td align=center>网页版永久网址一<br/>https://x.co/ogate</td>
     <td align=center>网页版永久网址二<br/>https://git.io/ogate</td>
   </tr>
-  <tr>
-    <td colspan=2 align=center>安卓版 请下载<br/><a href="https://dh9p7ug08vta.cloudfront.net/Up/0oGate.apk"><img src="https://dh9p7ug08vta.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
-  </tr>
   <tr><td colspan=2 align=center>网页版动态网址
 <br>https://d1k7laa3c9n9er.cloudfront.net
 <br>https://d2l82g8g6xg35o.cloudfront.net
@@ -18,6 +15,9 @@
 <br>https://d2uhjig5k0ehd7.cloudfront.net
 <br>https://dh9p7ug08vta.cloudfront.net
     <br/>（最新）</td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center>安卓版 请下载<br/><a href="https://dh9p7ug08vta.cloudfront.net/Up/0oGate.apk"><img src="https://dh9p7ug08vta.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://dh9p7ug08vta.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://dh9p7ug08vta.cloudfront.net/Up/0WCYY.jpg" /></a></td>
