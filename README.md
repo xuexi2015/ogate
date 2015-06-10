@@ -6,8 +6,6 @@
     <td align=center>永久网址二<br/>https://git.io/ogate</td>
   </tr>
   <tr><td colspan=2 align=center>动态网址
-<br>https://dc4ycmzfbxo16.cloudfront.net
-<br>https://d2wc8tuas0xf8o.cloudfront.net
 <br>https://d1k7laa3c9n9er.cloudfront.net
 <br>https://d2l82g8g6xg35o.cloudfront.net
 <br>https://d38cmeb6pghluc.cloudfront.net
