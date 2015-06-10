@@ -13,5 +13,5 @@
 <br>https://d2jfnk4kiyqm7z.cloudfront.net
 <br>https://d2rn0l9vkqwcqb.cloudfront.net
 <br>https://d2jtelgp6bwyyw.cloudfront.net
-    <br/>(最新)</td>
+    <br/>（最新）</td>
   </tr>
