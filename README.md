@@ -17,7 +17,7 @@
     <br/>（最新）</td>
   </tr>
   <tr>
-    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0WCYQ.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0WCYY.jpg" /></a></td>
     <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0WZTT.jpg" /></a></td>
   </tr>
   <tr>
