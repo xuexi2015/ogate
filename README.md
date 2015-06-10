@@ -17,23 +17,65 @@
     <br/>（最新）</td>
   </tr>
   <tr>
-    <td colspan=2>
-        <p>
-        问：网门是什么网站？<br/>
-        答：网门，网聚全球焦点，精粹资讯入门。有感于中共实行网络资讯过滤与封锁，民众迫切需要了解真实资讯的现状，一些志愿者怀着对中国社会和中华民族的责任感与使命感，创办了一家分享全球精粹资讯、拥有优秀网络技术的网站。网门包含新闻、评论、影视、音乐、绘画、书籍、网站、软件等内容，揭开网络时代的新视角，引领网络时代的新风尚。
-        </p>
-        <p>
-        问：网门适合什么样的用户？<br/>
-        答：网门适合手机、平板、电脑等所有网络终端用户。
-        </p>
-        <p>
-        问：什么是网门永久网址？<br/>
-        答：网门永久网址无需翻墙，是稳定长效的安全网址。只要把网门永久网址保存在手机浏览器的书签中，或保存在电脑浏览器的收藏夹中，就可以随时打开网门，获取全球精粹资讯。
-        </p>
-        <p>
-        问：什么是网门动态地址？<br/>
-        答：网门永久网址一自动跳转的、与网门永久网址二手动点击的动态网址，就是网门最新的有效网址。之所以是动态网址，是因为随着中共对互联网的封锁、攻击和屏蔽，有一定的时效性，会不断更新。
-        </p>
-    </td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0WCYQ.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/oNote.aspx?id=oNote&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogDY.aspx?from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/DY.jpg"/></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogST.aspx?from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/ST.jpg"/></a></td>
+  </tr>
+  <tr>
+    <td rowspan=2><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=WJ.mp4&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/WJ.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=17&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/DKC.jpg" /></a></td> 
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:14,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/LRWS.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/JQR.jpg" /></a></td>   
+    <td rowspan=2><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/JP.jpg" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=ZSJ.mp4&count=16&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/ZSJ.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=7&current=2&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/SSZJ.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=WH.mp4&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/WH.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=DWHM.mp4&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/DWHM.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=24&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/XTFY.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=06:6,05:20&current=06:6&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/4SQQ0.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=06:5,05:29&current=06:5&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/4SHQ0.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=06:6,05:22,04:22&current=06:6&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=06:6,05:48,04:52&current=06:5&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://x.co/dtw99&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://d2tyo2h9ydw5hf.cloudfront.net/acenter/&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0TDW.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://d3qz7yth5i2rae.cloudfront.net/gb/nsc413.htm&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0DJY.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://dgyo0jey7vwa5.cloudfront.net/xtr/gb/prog204.html&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0XTR.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://d7203y8eitivv.cloudfront.net&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0MHW.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/onUP.aspx?name=https://d38z1xzg5vtneh.cloudfront.net&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0ZJW.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=FG.zip&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/FG.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=FGA.apk&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/FGA.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=U.zip&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/U.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=UA.apk&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/UA.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=0iPPOTV.zip&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0iPPOTV.jpg" /></a></td>
+    <td><a href="https://d2jtelgp6bwyyw.cloudfront.net/ogUP.aspx?name=0iNTD.apk&from=github" target="_blank"><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/0iNTD.jpg" /></a></td>
   </tr>
 </table>
