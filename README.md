@@ -1,6 +1,6 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center>网门</td></tr>
+  <tr><td colspan=2 align=center><img src="https://d2jtelgp6bwyyw.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr>
     <td align=center>永久网址一<br/>https://x.co/ogate</td>
     <td align=center>永久网址二<br/>https://git.io/ogate</td>
