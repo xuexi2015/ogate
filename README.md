@@ -1,8 +1,8 @@
 ﻿<table>
   <tr><td colspan=2 align=center>网门</td></tr>
   <tr>
-    <td align=center>https://x.co/ogate<br>固定网址一</td>
-    <td align=center>https://git.io/ogate<br>固定网址二</td>
+    <td align=center>固定网址一<br/>https://x.co/ogate</td>
+    <td align=center>固定网址二<br/>https://git.io/ogate</td>
   </tr>
   <tr><td colspan=2 align=center>动态网址
 <br>https://dc4ycmzfbxo16.cloudfront.net
@@ -13,5 +13,5 @@
 <br>https://d2jfnk4kiyqm7z.cloudfront.net
 <br>https://d2rn0l9vkqwcqb.cloudfront.net
 <br>https://d2jtelgp6bwyyw.cloudfront.net
-    </td>
+    <br/>(最新)</td>
   </tr>
