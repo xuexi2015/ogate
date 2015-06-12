@@ -17,7 +17,8 @@
     <br/>（最新）</td>
   </tr>
   <tr>
-    <td colspan=2 align=center>安卓版 请下载<br/><a href="https://dtl5aer22oqa6.cloudfront.net/Up/0oGate.apk"><img src="https://dtl5aer22oqa6.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
+    <td align=center>苹果版 请安装<br/><a href="itms-services://?action=download-manifest&url=https://dtl5aer22oqa6.cloudfront.net/U2/0oGate.plist"><img src="https://dtl5aer22oqa6.cloudfront.net/Up/0WMPG.jpg" /></a></td>
+    <td align=center>安卓版 请下载<br/><a href="https://dtl5aer22oqa6.cloudfront.net/Up/0oGate.apk"><img src="https://dtl5aer22oqa6.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://dtl5aer22oqa6.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://dtl5aer22oqa6.cloudfront.net/Up/0WCYY.jpg" /></a></td>
