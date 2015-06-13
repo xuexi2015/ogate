@@ -1,9 +1,9 @@
 ﻿<table>
   <tr></tr>
   <tr><td colspan=2 align=center><img src="https://dr1fpbatns5c.cloudfront.net/Up/oGate.jpg" /></td></tr>
-  <tr><td colspan=2 align=center>动态网址
+  <tr><td colspan=2 align=center>动态网址<br/>（最新）
 <br>https://dr1fpbatns5c.cloudfront.net
-??<br>
+<br>
 <br>https://d220zlob9gezpe.cloudfront.net
 <br>https://d3azahecgyl3uj.cloudfront.net
 <br>https://dacd7w8k2buzx.cloudfront.net
