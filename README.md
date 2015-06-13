@@ -1,7 +1,7 @@
 ﻿<table>
   <tr></tr>
   <tr><td colspan=2 align=center><img src="https://dvlomkaj28to7.cloudfront.net/Up/oGate.jpg" /></td></tr>
-  <tr><td colspan=2 align=center>网页版动态网址
+  <tr><td colspan=2 align=center>动态网址
 <br>https://d220zlob9gezpe.cloudfront.net
 <br>https://d3azahecgyl3uj.cloudfront.net
 <br>https://dacd7w8k2buzx.cloudfront.net
@@ -14,12 +14,12 @@
     <br/>（最新）</td>
   </tr>
   <tr>
-    <td align=center>网页版永久网址一<br/>请收藏<br/>https://x.co/ogate<br><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMGD1.png" /></td>
-    <td align=center>网页版永久网址二<br/>请收藏<br/>https://git.io/ogate<br><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMGD2.png" /></td>
+    <td align=center>永久网址一 请收藏<br/>https://x.co/ogate<br><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMGD1.png" /></td>
+    <td align=center>永久网址二 请收藏<br/>https://git.io/ogate<br><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMGD2.png" /></td>
   </tr>
   <tr>
-    <td align=center>苹果版 请安装<br/><a href="https://dvlomkaj28to7.cloudfront.net/?from=github"><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMPG.jpg" /></a></td>
-    <td align=center>安卓版 请下载<br/><a href="https://dvlomkaj28to7.cloudfront.net/ogUP.aspx?name=0oGate.apk&from=github"><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
+    <td align=center><a href="https://dvlomkaj28to7.cloudfront.net/?from=github"><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMPG.jpg" /></a></td>
+    <td align=center><a href="https://dvlomkaj28to7.cloudfront.net/ogUP.aspx?name=0oGate.apk&from=github"><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://dvlomkaj28to7.cloudfront.net/oNote.aspx?id=oGate&from=github" target="_blank"><img src="https://dvlomkaj28to7.cloudfront.net/Up/0WCYY.jpg" /></a></td>
