@@ -4,13 +4,6 @@
   <tr><td colspan=2 align=center>动态网址<br/>（最新）
 <br>https://d1t680kaq862zq.cloudfront.net
 <br>
-<br>https://d1t1yuem3keh8z.cloudfront.net
-<br>https://d14f1i7ux9eiyb.cloudfront.net
-<br>https://dce6k6cuqqz4g.cloudfront.net
-<br>https://d1xgb222q7th2w.cloudfront.net
-<br>https://d2kduinw7doobb.cloudfront.net
-<br>https://d1xqq4k715vlcl.cloudfront.net
-<br>https://dlu68vpnf3huu.cloudfront.net
 <br>https://d2ld2q9oz84vug.cloudfront.net
     </td>
   </tr>
