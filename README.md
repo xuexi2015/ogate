@@ -4,10 +4,6 @@
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
 <br>https://d2wp3qfl7dlboq.cloudfront.net
 <br/>
-<br>https://d3dkuskruh9rng.cloudfront.net
-<br>https://dwj2pwpvhvg97.cloudfront.net
-<br>https://d2y70ya6aoanhk.cloudfront.net
-<br>https://d3hm7ox6bfmbuo.cloudfront.net
     </td>
   </tr>
   <tr>
