@@ -6,7 +6,6 @@
 <br/>
 <br>https://d2wp3qfl7dlboq.cloudfront.net
 <br>https://d2uachafhacvc2.cloudfront.net
-<br>https://
 <br>https://d1jiet38hrxg8y.cloudfront.net
     </td>
   </tr>
