@@ -45,7 +45,7 @@
     <td><a href="https://d12kpd1cijry9x.cloudfront.net/ogUP.aspx?name=WH.mp4&from=github" target="_blank"><img src="https://d12kpd1cijry9x.cloudfront.net/Up/WH.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d12kpd1cijry9x.cloudfront.net/ogUP.aspx?name=3XZM.mp4&from=github" target="_blank"><img src="https://d12kpd1cijry9x.cloudfront.net/Up/3XZM0.jpg" /></a></td>
+    <td><a href="https://d12kpd1cijry9x.cloudfront.net/ogUP.aspx?name=3XZM.mp4&count=240p:1,480p:1&from=github" target="_blank"><img src="https://d12kpd1cijry9x.cloudfront.net/Up/3XZM.jpg" /></a></td>
     <td><a href="https://d12kpd1cijry9x.cloudfront.net/ogUP.aspx?name=TRHY.mp4&from=github" target="_blank"><img src="https://d12kpd1cijry9x.cloudfront.net/Up/TRHY.jpg" /></a></td>
   </tr>
   <tr>
