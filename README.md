@@ -59,7 +59,7 @@
     <td><a href="https://d2cmw7cecl60vp.cloudfront.net/onUP.aspx?name=https://d2ao90bsskjq20.cloudfront.net/acenter/&from=github" target="_blank"><img src="https://d2cmw7cecl60vp.cloudfront.net/Up/0TDW.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2cmw7cecl60vp.cloudfront.net/onUP.aspx?name=https://d3qz7yth5i2rae.cloudfront.net/gb/nsc413.htm&from=github" target="_blank"><img src="https://d2cmw7cecl60vp.cloudfront.net/Up/0DJY.jpg" /></a></td>
+    <td><a href="https://d2cmw7cecl60vp.cloudfront.net/onUP.aspx?name=https://d23nscda4f4lvy.cloudfront.net/gb/nsc413.htm&from=github" target="_blank"><img src="https://d2cmw7cecl60vp.cloudfront.net/Up/0DJY.jpg" /></a></td>
     <td><a href="https://d2cmw7cecl60vp.cloudfront.net/onUP.aspx?name=https://dgocdxv5343dc.cloudfront.net/xtr/gb/prog204.html&from=github" target="_blank"><img src="https://d2cmw7cecl60vp.cloudfront.net/Up/0XTR.jpg" /></a></td>
   </tr>
   <tr>
