@@ -47,6 +47,10 @@
     <td><a href="https://d38r3kwh694vcy.cloudfront.net/ogUP.aspx?name=TRHY.mp4&from=github" target="_blank"><img src="https://d38r3kwh694vcy.cloudfront.net/Up/TRHY.jpg" /></a></td>
   </tr>
   <tr>
+    <td><a href="https://d38r3kwh694vcy.cloudfront.net/ogUP.aspx?name=DWHM.mp4&from=github" target="_blank"><img src="https://d38r3kwh694vcy.cloudfront.net/Up/DWHM.jpg" /></a></td>
+    <td><a href="https://d38r3kwh694vcy.cloudfront.net/ogUP.aspx?name=XTFY.mp4&count=24&from=github" target="_blank"><img src="https://d38r3kwh694vcy.cloudfront.net/Up/XTFY.jpg" /></a></td>
+  </tr>
+  <tr>
     <td><a href="https://d38r3kwh694vcy.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=06:15&current=06:15&from=github" target="_blank"><img src="https://d38r3kwh694vcy.cloudfront.net/Up/4SQQ0.jpg" /></a></td>
     <td><a href="https://d38r3kwh694vcy.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=06:16&current=06:16&from=github" target="_blank"><img src="https://d38r3kwh694vcy.cloudfront.net/Up/4SHQ0.jpg" /></a></td>
   </tr>
