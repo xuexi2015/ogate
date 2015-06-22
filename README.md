@@ -27,7 +27,7 @@
     <td><a href="https://d330ny0o3e30ob.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=17&from=github" target="_blank"><img src="https://d330ny0o3e30ob.cloudfront.net/Up/DKC.jpg" /></a></td> 
   </tr>
   <tr>
-    <td><a href="https://d330ny0o3e30ob.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:16,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&from=github" target="_blank"><img src="https://d330ny0o3e30ob.cloudfront.net/Up/LRWS.jpg" /></a></td>
+    <td><a href="https://d330ny0o3e30ob.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=6B:17,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&from=github" target="_blank"><img src="https://d330ny0o3e30ob.cloudfront.net/Up/LRWS.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d330ny0o3e30ob.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2&from=github" target="_blank"><img src="https://d330ny0o3e30ob.cloudfront.net/Up/JQR.jpg" /></a></td>   
