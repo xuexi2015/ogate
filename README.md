@@ -4,10 +4,6 @@
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
 <br>https://diq79ad77mt8e.cloudfront.net
 <br/>
-<br>https://d330ny0o3e30ob.cloudfront.net
-<br>https://d184oeu7awao1r.cloudfront.net
-<br>https://d3qfcil8obvxqo.cloudfront.net
-<br>https://d37fghqfxk7f6.cloudfront.net
     </td>
   </tr>
   <tr>
@@ -27,7 +23,7 @@
     <td><a href="https://diq79ad77mt8e.cloudfront.net/ogST.aspx?from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/ST.jpg"/></a></td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=240P:1,480P:1&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/WJ.jpg" /></a></td>
+    <td rowspan=2><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=240P:5,480P:1&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/WJ.jpg" /></a></td>
     <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=DKC.mp4&count=17&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/DKC.jpg" /></a></td> 
   </tr>
   <tr>
