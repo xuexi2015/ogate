@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=06:16&current=06:16&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SQQ0.jpg" /></a></td>
-    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=06:18&current=06:18&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SHQ0.jpg" /></a></td>
+    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=06:19&current=06:19&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SHQ0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=06:18&current=06:17&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SZG0.jpg" /></a></td>
-    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=06:30&current=06:29&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
+    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=06:19&current=06:19&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SZG0.jpg" /></a></td>
+    <td><a href="https://diq79ad77mt8e.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=06:32&current=06:31&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://diq79ad77mt8e.cloudfront.net/onUP.aspx?name=https://x.co/dtw99&from=github" target="_blank"><img src="https://diq79ad77mt8e.cloudfront.net/Up/0DTW.jpg"/></a></td>
