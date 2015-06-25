@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=06:20&current=06:20&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/4SZG0.jpg" /></a></td>
-    <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=06:32&current=06:31&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
+    <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=06:34&current=06:33&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/4SDJ0.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d46665z4ve40x.cloudfront.net/onUP.aspx?name=https://x.co/dtw99&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/0DTW.jpg"/></a></td>
