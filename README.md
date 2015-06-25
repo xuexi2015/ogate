@@ -39,7 +39,7 @@
     <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=ZSJ.mp4&count=16&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/ZSJ.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=240P:6,480P:6&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/SSZJ.jpg" /></a></td>
+    <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=6&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/SSZJ.jpg" /></a></td>
     <td><a href="https://d46665z4ve40x.cloudfront.net/ogUP.aspx?name=WH.mp4&from=github" target="_blank"><img src="https://d46665z4ve40x.cloudfront.net/Up/WH.jpg" /></a></td>
   </tr>
   <tr>
